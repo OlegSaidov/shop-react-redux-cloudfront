@@ -1,3 +1,11 @@
+# What was done for task 2:
+
+1) Infrastructure code was added with a separate version control: https://github.com/OlegSaidov/aws-s3-cloudfront-infra
+2) Sample UI app repo fork: https://github.com/OlegSaidov/shop-react-redux-cloudfront
+3) The built CloudFront Site on the internet: d32tt5djx32xc9.cloudfront.net 
+4) S3 Bucket: https://us-east-1.console.aws.amazon.com/s3/buckets/deploymentwebappstack-deploymentfrontendbucket67ce-hbnqzfivmlaa?region=us-east-1 (Can't get working link, since CloudFront was used)
+
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
